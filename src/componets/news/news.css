@@ -1,0 +1,139 @@
+body{
+  background-color: #000000;
+}
+
+.news {
+  background: url("C:/Users/XE/Desktop/my-project/src/imge/news.jpg");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  .main-hader {
+    display: flex;
+    background-color: var(--color);
+
+    .img-main-hader {
+      margin-right: 30vw;
+      margin-left: 0.4rem;
+      margin-top: -1rem;
+    }
+
+    .main-btn-right {
+      float: right;
+    }
+
+    .main-btn {
+
+      cursor: pointer;
+      height: 2rem;
+      width: 13vw;
+      font-size: 1.1rem;
+      color: aliceblue;
+      background: #dddddd00;
+      border: none;
+      transition: border-bottom 0.3s ease;
+
+    }
+
+    .top {
+      display: flex;
+      margin-top: 2rem;
+    }
+  }
+
+  .main-hader img {
+    width: 4rem;
+  }
+
+  .main-btn-div {
+    display: inline-block;
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+    transition: background-color 0.5s linear;
+  }
+
+  .main-btn:hover {
+    border-bottom: 2px solid red;
+  }
+
+  .NRG {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 80vh;
+
+    .NRG-border {
+      width: 30vw;
+      height: 17vw;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      background-color: #161616d7;
+      border-radius: 3rem;
+      color: rgb(255, 255, 255);
+      font-size: 1.2rem;
+      border: 1px solid #414141;
+
+
+    }
+
+    .NRG-border p {
+      text-align: center;
+    }
+
+    .img-NRG {
+      width: 12rem;
+    }
+  }
+
+
+}
+
+.news-news-news {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #414141da;
+  border-radius: 3rem;
+  height: 100%;
+  .news-h1 {
+    text-align: center;
+    color: #ffffff;
+  }
+  .news-text-item{
+    font-size: 2rem;
+    color: #ffffff;
+  }
+  .news-text-item2{
+    text-align: center;
+  }
+  .flex-news-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .img-news{
+    border-radius: 3rem;
+    width: 60vw;
+  }
+}
+
+
+
+:root {
+  --color: black;
+}
+
+.The-input-page{
+  background-color:#00b6ad ;
+  margin-top: -2rem;
+  height: 100%;
+
+  .input-text{
+    width: 33rem;
+  }
+}
