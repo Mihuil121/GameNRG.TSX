@@ -2,23 +2,22 @@
 
 ![мой проект](https://github.com/Mihuil121/GameNRG.TSX/blob/main/Video.gif)
 
-## Описание
+## Description
 
-Этот проект был создан с целью изучения TypeScript (TS) и в качестве подарка для знакомых.
+This project was created for the purpose of learning TypeScript (TS) and as a gift for friends.
 
-## Технологии
+## Technologies
 
-Проект написан на TSX.
+The project is written in TSX.
 
-## Установка
+## Installation
 
-Чтобы запустить этот проект локально, выполните следующие шаги:
+To run this project locally, follow these steps:
 
-1. Клонируйте репозиторий: `[git clone https://github.com/Mihuil121/GameNRG.TSX`
-2. Установите зависимости: `npm install`
-3. Запустите проект: `npm start`
+1. Clone the repository: `[git clone https://github.com/Mihuil121/GameNRG.TSX `
+2. Install dependencies: `npm install`
+3. Start the project: `npm start`
+## License
 
-## Лицензия
-
-Этот проект лицензирован под лицензией MIT.
+This project is licensed under the MIT license.
 
