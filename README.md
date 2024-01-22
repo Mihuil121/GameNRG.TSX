@@ -1,4 +1,4 @@
-# Название вашего проекта
+# GameNRG.TSX 
 
 ![мой проект](https://github.com/Mihuil121/GameNRG.TSX/blob/main/Video.gif)
 
